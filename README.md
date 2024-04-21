@@ -4,7 +4,7 @@
 
 #### Data Integration and Risk Evaluation
 
-- ** Objective**: Combine Census and FEMA data to evaluate populations of lower-income families living in high-risk coastal flooding zones.
+- **Objective**: Combine Census and FEMA data to evaluate populations of lower-income families living in high-risk coastal flooding zones.
 - **Details**:
   - Utilize FEMA data, which includes various categories for measuring different types of natural disasters.
   - Focus on a pared-down list of categories, but keep additional categories to potentially model other prevalent risk factors like hurricanes.
